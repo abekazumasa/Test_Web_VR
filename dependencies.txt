@@ -1,4 +1,5 @@
 com.de-panther.webxr@0.12.1-preview
+com.de-panther.webxr-interactions@0.12.0-preview
 com.unity.collab-proxy@1.5.7
 com.unity.connect.share@4.2.2
 com.unity.ide.rider@2.0.7
